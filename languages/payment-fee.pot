@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Payment Gateway Fee\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%s processing fee"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Fees"
+msgstr ""
+
+msgid "One per line: gateway_id|amount. Fixed amount or percentage (%5 or 5%); -2 for a negative fixed discount. E.g.: cod|5, bacs|-2, cod|%2, card|3%"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "cod-fee-validation"
+msgstr ""
